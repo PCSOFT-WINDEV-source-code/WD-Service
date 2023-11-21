@@ -1,0 +1,187 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WIN_Install
+ major_version : 28
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : WIN_Install
+ identifier : 0x21150f6b113104ee
+ internal_properties : CAAAAAgAAAAObt15d4LwN8T7I7paMzLPDWWjQ5dY4Oh2wvknEls3a8rF0Y6MNHzb8qjYUIEfnzNxx6eLUjXmKLdkTlpBfih2+64Dzr9epakx6y3WUX6vbp8qODeEZ8SAwjMrYduR8CuihE3zwyY9WlEm8kyJUgoFCZ0NLOY2WFvHaBquAAlCFGL53Iu5boVwuXAtCaGvfDL1senha0u4+TwG0I98HWpeF8AJKAWoyNiUYvl56Ey3uZr6s5beCCBKzRIk9FnQNKDFQ1HyE1aQsMmMbIXHEVWDux0XwpYufnxsrzRPMSeCNteb6BgJqwB/A0naie/TYoTDon3cU/LhTp6rlIhs2OxyeHGz6KvfMfZS0b5aPho0ndz07WSNDJeoXcoW73iQpRIJs+oQDO4X43cpf6xcZtCCNvcyhqokhcjflJ8EqDrymHRBmctJ8DXA3j9fEvvsaJOa4AsovNBaw51kIFzWajHHfQIaGxHoWWdVQT7Udoy7GkvQjQ+vF9LGftfVjnXqdzj3xOQESKHK7CV+/1a/tgFfFcCrxl66iUVsx1nHNzE5Cbn+lVi2cwRtzZxiLJl6+KuUEzlxpElhGUDpcznD7RTlBOWjYb0Hd++sI8w5LLC5GpRqh5PO3F88E7RjH5qhgETDcHJr3JkYDj1mf2HMzjynKprtJiohvnbiSfKp
+ properties :
+  width : 318
+  height : 119
+  widthClient : 316
+  heightClient : 87
+ controls :
+  -
+    name : STC_INFO
+    identifier : 0x21150f6b113204ee
+    internal_properties : CAAAAAgAAABBISjBysf3J4QY+4ZkwIZqR1C66D3oLpSrjR/TFy9UgC7ee5TXck+MrJ0Ydw0LgmB8/tdHUIf+SuFl8Wy5aNK4bNza+8JngcqcjUowNwdcYLaUl1tZwjCNeoPamWKXjL7EBdbA9hMcmS7O0l87TRwFDtHvJkltQDl/17xsxzc5ArPwJ3vdTthdUig3nrhlqmFiKWev34XOEVoJWpPUDcmOdOp+iFlS/nysnDlYpoQwEfm90UnleJ3/Pi12ymr5ux6lHRYUEWNnTiV1l49Z+FM4OTNXSiZs/RAIx+bQxSLypXmqj4flQF6RGGIRpCrcZUn5Rx9S5g==
+    properties :
+     x : 6
+     y : 30
+     width : 304
+     height : 51
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : STC_Example_of_WINDEV_service
+    identifier : 0x21150f6b113304ee
+    internal_properties : CAAAAAgAAADtmctaXR9rs8o7Z0oEIMONlNAHrT1r01w0woRB8VFmuZGUE/HTUiUbhBCj/MTo3GJNhVm5Eqt7wt+sPCoxKZdN8JEoW6ZLS0962PT7iR8KnYGD+DOZs5GHOk2riL1loPvVFfGH4QKzKkpu9GeBFe140PAxep3b5NFKFaWxFx+/bT/eU8O7pup4Q14XyeoRJVLEo5BXSR+O4zgtWwmOJ/QLn0JLEEqX00BaFkllYW+9RoKks0rwQ/nvOKYBtwkz4yZW1t2ajM/1pYkPjWF3QkDvwuzjItO/tGHaghMRcWmHmSF/4Q/7RPmt1Dg0vY6b925xa6A6bsK4BkyoVrCbgLW3iRJxmH99w5m9hSSOkgsx2t8Bl7s+KyX6iwIOfuo=
+    properties :
+     x : 6
+     y : 6
+     width : 304
+     height : 20
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : STC_SERVICEINFO
+    identifier : 0x21150f6b113404ee
+    internal_properties : CAAAAAgAAAA8vXnOdiJN3A0fodHE3GxeKFaa81Qwt4FwS8QncBIPfD0cWbHBq0UNPHmUr3mfAyPnnF+GaE3JZwZoKGcqEhjtOMM6x9Qv1MXtvvavxaqgXdvTuHJ5Ja1jyFhM6dIn0dWLPmdYDnZZhc8WGXZrx6ycGTy5zh+4yjHBDj66aej7McwuJVsYSh2e5czEepl6qwrkAymInmhkfc21M4n5Pc2ON80/HkAhmELVz25y4e+HMN80wjGn6gwbW+uqLDLjgc1l2f2EiNyJSZIQm176/NG9r73GeJqS/AW5RxUcZxoy3HcuXwghRLBo5ZD5yzD/Wzj/qd9piKCvSKiyEUaL2CXrkV66PJvQ3jKE2gqxbpYpkixf+oxf/Dv+lA==
+    properties :
+     x : 6
+     y : 32
+     width : 304
+     height : 20
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : BTN_INSTALL
+    identifier : 0x21150f6b113504ee
+    internal_properties : CAAAAAgAAADu4PzquZO1IYlw080QtU7D9l1GwcHEKVJXIeQFG7C9knR1MEcR2zY2IGcBA/hn0gqqqPbp38i+OUhZAcM2voYKizoIfo+fmTB6rE+VvmL1GbXBSU86NvxlI2ayUliAutoJl7ec/xp6j/4MORvKZbxQ/8kOb3w79mgZSdoFUdg4q1+7vrko6vEgyJ5LglfxDDxyBY2RRgSAri32X2hOeAHRaOAH50s75xChRtfP4phmx6poYNmF+GiPZVhbNaEDm3nY3HYckgr3dBv2dhJaQhPiFDlwW51IiKMBexDnJBEzgBfeW4T18WdPxbJfj9g+xjpY2/1V/GFllFA6xeGiJ9fQ4a4ZSlTMsDVuh/Y7M6ThX13NllHpIAvnl5ePOYsRw2gZvqRQYxQZ10/MwhsWg3jozgifxUXXzclxRn80U79Z1wL1xcP1pvlgmNF8iNGxHxUg1baNnVVcZ/mZh5tjPWVyJfde7mO0wjWXnY6DLzSshTzliTxhXhHfm+0AU8Oc7ElJg8bCK9NF4NxtxPORRdyKtmPZlXCQwj+g3QjF132DCSQvAMHi4MSlY4yHFVipx9kil6c4A+VSKphSeNFadtDN6afrPdmgGeyqWHuoiZvPpMyn1gpdS15zi9DDjnp1QrA3DV2jy0UUjL8bKqE=
+    properties :
+     x : 144
+     y : 57
+     width : 80
+     height : 24
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1-
+         
+         // Checks whether the service exists
+         IF ServiceExist(SERVICE_NAME) THEN
+         	
+         	// Uninstalls the service
+         	EXE_UninstallService()
+         	
+         ELSE
+         	
+         	// Installs the service
+         	EXE_InstallService()
+         END
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : BTN_Exit
+    identifier : 0x21150f6b113604ee
+    internal_properties : CAAAAAgAAACtob+p+HNgaTltFkb9vQ0jBYoVX7CtpsUBv8zg0zp8RjSPlwU6Uu95bQjJrkD6W29EsmM1DiJ3UnEjb5f+UwD86YFf77bjKgWJyYH3/qK7/xtP62vU2FQdPSRCaAzsZMwjyaWsJXwas+yOPf0+Sfq2LV+oOxLpWuTzl7bnyaBCPSnt9IF6BNGQ+kzbkF/xBq54y3fV5NL0otPgkz6CrOsrCnJh41ldT/jbHE+5yvj4ieT61kmfmkgDW1o7x/GzVQNesthwHJRnhLmgluT2bg0kyscqz5suTDNTWfSNjDGVSrF4vejj53uT17BT0ZwyzHAipYf5ukM625UfHrZdnF6hgAWO24dRKfwjjO/ARqHgmKTQF96YeRD6+FAwjm4+EsEQ+W0N0iU28lSBt7wVBPep0XcsVlCEblhGgySFotBczMnwkoyQwwoD8QIZKbjaauJvkJuWwKqt1u6OjOSyfpgn+NoDb8YJq8z8GnMErqXLZh/A0mFgl/YyrBbx6IZJr4787rs7jqgm41FK6YQAZiOT8W72jkOFO0ahlvkaorLaop+i84o/AwY9D861GNae/M93jyz7TPIivt0tGnhJY+2FiSL+Dj7tqB+4SuA0gLijOb3ZCcBZPZ4T6lOmg06P9w1KgMqb9tpRy/7aaWI=
+    properties :
+     x : 230
+     y : 57
+     width : 80
+     height : 24
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1-
+         
+         EndProgram(True)
+        type : 18
+      -
+        type : 161
+        enabled : false
+ menu :
+  name : _Menu
+  identifier : 0x2b06b0ac2a040f5f
+  internal_properties : CAAAAAgAAAAjoO+VYAXYh2SYpTvD7AgXCHEHRjuTd5K/qNR3zUpM1aIlQYejrbtK76/LWLozAhgdmcRuoxDXe7vi3lf8PoZYYzNtPYlgCK9AarNrSCSSPpGDp+KLIikSwO2L+lCfwFobS8WKQZu2noN9WV5ipxuLKjTaOvfojbcmu1i6FPrF8FEPa+oQBHdRyMYNLYyLF/nTGn2y7NBixG5dC7y2wsO4aXA1CKpzZUca8sBJUrSr9FqhTJMK37pOOZqMTeCIo+trbOMI1osTdzjD26auXrzETrP8OxsAt+HgvahLwDb4kRpR6lQOjBIj
+  options : []
+ languages :
+  - en-GB
+ popup_menus : []
+ message_bar :
+  internal_properties : CAAAAAgAAABkTKIBkTakNd6/87ndo+fJVsKe17JyX6RlCI7LLgRETo1eFSQNGREzqlRMTO2OIK0nQsZHn9rqCdInaiu3jUNq8T+uvSsGbRUvXoUZPScSOfgtB9VCuNjt9Jc4ow==
+ actionbar : {}
+ code_elements :
+  type_code : 1
+  p_codes :
+   -
+     code : |1-
+      
+      Procedure WIN_Install(ManualMode = False)
+      
+      // Manual mode (for installing or uninstalling)
+      IF ManualMode THEN
+      	
+      	// Checks whether the service exists
+      	IF ServiceExist(SERVICE_NAME) THEN
+      		
+      		// Proposes to uninstall the service
+      		STC_SERVICEINFO = “The service is installed.”
+      		BTN_INSTALL..Caption = “Un&install”
+      	ELSE
+      		
+      		// Proposes to install the service
+      		STC_SERVICEINFO = “The service is not installed.”
+      		BTN_INSTALL..Caption = “&Install”			
+      	END
+      	
+      	// Plane 2	
+      	WIN_Install..Plane = 2
+      ELSE
+      	
+      	// Default plane
+      	WIN_Install..Plane = 1
+      END
+   -
+     code : |1-
+      
+      IF NOT ManualMode THEN HourGlass(True)
+     type : 34
+   -
+     type : 180
+     enabled : false
+   -
+     type : 230
+     enabled : false
+   -
+     code : |1-
+      
+      IF NOT ManualMode THEN HourGlass(False)
+     type : 2
+   -
+     type : 11
+   -
+     type : 12
+   -
+     type : 17
+   -
+     type : 13
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+  original_name : FEN_Fenêtre1
+resources :
+ string_res :
+  identifier : 0x1006a1c334be0fb8
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe
